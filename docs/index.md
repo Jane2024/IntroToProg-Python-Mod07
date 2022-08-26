@@ -5,7 +5,7 @@
 *Link:(GitHub repository)- https://github.com/Jane2024/IntroToProg-Python-Mod07*<br/>
 *Link:(GitHub Webpage)-  https://jane2024.github.io/IntroToProg-Python-Mod07/*<br/>
  
-<h1 align="center">Pickling and Error handling in Python</h1> 
+<h1 align="center">Pickling and Error Handling in Python</h1> 
 
 ## Introduction
 This week covered reading and writing to text files, reading and writing to binary files using Pickle and error handling with try/except blocks. In addition, learning how to use markdown language to format a GitHub web page. The assignment for the week had us research Pickling in Python and error handling, then create demos to shown these principles in action. This knowledge document will cover the above topics and also be reflected on the newly created GitHub web page.
