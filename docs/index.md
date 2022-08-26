@@ -87,6 +87,8 @@ This files is located in the main branch in the docs folder in each GitHub repos
 
 
 
+
+
 ### Assignment 07
 This assignment is to create a demo script that provides an example of the use of Pickling in Python and Error Handling.
 
