@@ -36,3 +36,5 @@ For example: data = file.read(5) will read the first 5 characters in the file. T
 
 The readline() method allows reading the current line of data from the file or specifying a number of characters from the current line to be read. Each new call to readline() (as long as the file is open) will advance and read the next line of data. Advancing one line at a time is called cursor. Closing and reopening the file starts reads at the first line again. A “while” loop can be used to advance through a file reading multiple lines. Listing 7.1 below shows a function that handles reading multiple rows using the readline() method.
 
+![This is an image](Listing7.1_code.PNG)!
+
